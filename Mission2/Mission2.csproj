@@ -7,11 +7,6 @@
   <ItemGroup>
     <None Include="wwwroot\img\favicon.ico" />
     <None Include="wwwroot\img\IMG-0744.JPG" />
-    <None Include="wwwroot\index.html" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="wwwroot\lib\bootstrap\" />
   </ItemGroup>
 
 </Project>
